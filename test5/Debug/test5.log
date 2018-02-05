@@ -1,0 +1,5 @@
+﻿  test5.cpp
+  test5.vcxproj -> H:\PROJECTS\test5\Debug\test5.exe
+  test5.vcxproj -> H:\PROJECTS\test5\Debug\test5.pdb (Full PDB)
+h:\projects\test5\test5\test5.cpp(69): warning C6011: Разыменование пустого указателя "p". 
+h:\projects\test5\test5\test5.cpp(92): warning C6283: Память для "nn" выделена при помощи оператора new [] для массивов, а удаляется скалярным оператором delete.
