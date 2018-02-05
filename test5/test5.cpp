@@ -87,6 +87,7 @@ struct newdel
 
 int main()
 {
+	int Aff = 0;
 
 	int *nn = new int[10];
 	delete nn;
