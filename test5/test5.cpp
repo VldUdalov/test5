@@ -88,6 +88,7 @@ struct newdel
 int main()
 {
 
+	char WTF = 0;
 
 
 	int *nn = new int[10];
